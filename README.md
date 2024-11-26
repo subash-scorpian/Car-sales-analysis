@@ -19,3 +19,6 @@ This data can be utilized for
 Market analysis: Understanding vehicle performance, resale value, and sales trends.
 Comparative analysis: Comparing different models in terms of fuel efficiency, horsepower, and price.
 Resale value prediction: Estimating the future resale value of vehicles based on their current price and features.
+
+Here i performed Data Cleaning Which columns have missing data, and how much is missing? and also General Statistics:What are the average, minimum, and maximum sales in thousands?
+by using pandas
